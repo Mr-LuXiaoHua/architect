@@ -5,3 +5,4 @@
 * [来，撸一个简单的支付网关](https://github.com/Mr-LuXiaoHua/architect/blob/master/doc/pay-gateway.md)
 * [购物车](https://github.com/Mr-LuXiaoHua/architect/blob/master/doc/cart.md)
 * [钱包](https://github.com/Mr-LuXiaoHua/architect/blob/master/doc/wallet.md)
+* [钱包](https://github.com/Mr-LuXiaoHua/architect/blob/master/doc/inventory.md)
